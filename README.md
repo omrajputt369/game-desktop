@@ -1,8 +1,8 @@
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/omrajputt369-byte/game-desktop)
-  ![GitHub stars](https://img.shields.io/github/stars/omrajputt369-byte/game-desktop?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/omrajputt369-byte/game-desktop?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/omrajputt369/game-desktop)
+  ![GitHub stars](https://img.shields.io/github/stars/omrajputt369/game-desktop?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/omrajputt369/game-desktop?style=social)
 
   <br />
   <br />
@@ -41,18 +41,18 @@ To run **GameX** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/omrajputt369-byte/game-desktop.git
+sudo git clone https://github.com/omrajputt369/game-desktop.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/omrajputt369-byte/game-desktop.git
+git clone https://github.com/omrajputt369/game-desktop.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [GitHub](https://github.com/omrajputt369-byte).
+If you want to contact with me you can reach me at [GitHub](https://github.com/omrajputt369).
 
 ### License
 
